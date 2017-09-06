@@ -6,3 +6,6 @@
 5. git remote add origin https://github.com/shyam-web-developer/react-demo.git
 6. git remote -v // To check remote branch
 7. git push -u origin master
+8. git fetch
+9. git pull
+10. git clone https://github.com/shyam-web-developer/react-demo.git
