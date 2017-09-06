@@ -1,0 +1,8 @@
+1. Open Git Bash with right click on given folder
+2. git init => Enter Button
+3. git add . //# Adds the files in the local repository and stages them for commit. To unstage a file, use 'git reset HEAD YOUR-FILE'.
+4. git status //# To check file is added?
+5. git commit -m "First commit"
+5. git remote add origin https://github.com/shyam-web-developer/react-demo.git
+6. git remote -v // To check remote branch
+7. git push -u origin master
